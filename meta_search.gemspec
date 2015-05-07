@@ -58,7 +58,6 @@ Gem::Specification.new do |s|
     "test/test_view_helpers.rb"
   ]
   s.homepage = "http://metautonomo.us/projects/metasearch/"
-  s.post_install_message = "\n*** Thanks for installing MetaSearch! ***\nBe sure to check out http://metautonomo.us/projects/metasearch/ for a\nwalkthrough of MetaSearch's features, and click the donate button if\nyou're feeling especially appreciative. It'd help me justify this\n\"open source\" stuff to my lovely wife. :)\n\n"
   s.require_paths = ["lib"]
   s.rubygems_version = "1.8.15"
   s.summary = "Object-based searching (and more) for simply creating search forms."
